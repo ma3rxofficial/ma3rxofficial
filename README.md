@@ -1,10 +1,6 @@
-### дароу 👋
-
-Я патриот . Строю что-то в майнкрафтике и пишу проги
-
 <div id="marconit-big-text" align="center">
     <br/>
-    <h1>📄 Слава [NuclearBuilders](https://www.youtube.com/@NuclearBuilders)</h1>
+    <h1>👋 Слава [NuclearBuilders]</h1>
 </div>
 
 <p align="center"><img src="https://gpvc.arturio.dev/ma3rxofficial"/></p>
