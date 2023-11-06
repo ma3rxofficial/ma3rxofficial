@@ -2,14 +2,11 @@
     <br/>
     <h1>👋 Слава NuclearBuilders!</h1>
 </div>
-    
+
+Я **патриот** [NuclearBuilders](https://www.youtube.com/@NuclearBuilders) и **строитель** в Minecraft. 
+Пишу на: *Python, Lua, C++*.
+
 ![my stats](https://github-readme-stats.vercel.app/api?username=ma3rxofficial&show_icons=true&theme=radical)
 [![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma3rxofficial&layout=compact&theme=radical)](https://github.com/ma3rxofficial)
-
-<div align="center">
-    <a href="https://github.com/ma3rxofficial">
-        <img src="./logo_social_github.png" width="3%"/>
-    </a>
-    <img width="3%" />
-
-</div>
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
