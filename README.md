@@ -20,3 +20,5 @@
 Discord: **Ma3rX**
 
 KICQ: **3-739-186**
+
+[NarodWeb Forum](http://narodweb.ru/forum/): **Ma3rX**
