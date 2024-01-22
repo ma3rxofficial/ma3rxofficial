@@ -1,9 +1,9 @@
 <div id="marconit-big-text" align="center">
     <br/>
-    <h1>👋 Слава NuclearBuilders!</h1>
+    <h1>👋 Ку-ку!</h1>
 </div>
 
-Я **патриот** [NuclearBuilders](https://www.youtube.com/@NuclearBuilders) и **строитель** в Minecraft. 
+Я **недопрогер** и **строитель** в Minecraft. 
 
 Пишу на: *Python, Lua, C++*.
 
