@@ -3,8 +3,6 @@
     <h1>👋 Ку-ку!</h1>
 </div>
 
-Я **недопрогер** и **строитель** в Minecraft. 
-
 Пишу на: *Python, Lua, C++*.
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=ma3rxofficial&show_icons=true&theme=radical)
@@ -16,8 +14,6 @@
     <br/>
     <h1>📩 Контакты</h1>
 </div>
-
-Discord: **Ma3rX**
 
 KICQ: **3-739-186**
 
